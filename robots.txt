@@ -1,3 +1,11 @@
 User-agent: Yandex
 Disallow: /Admin
-Sitemap: /sitemap.xml
+Sitemap: https://smykovavika.github.io/sitemap.xml
+
+User-agent: googlebot
+Disallow: /Admin
+Sitemap: https://smykovavika.github.io/sitemap.xml
+
+User-agent: *
+Disallow: /Admin
+Sitemap: https://smykovavika.github.io/sitemap.xml
