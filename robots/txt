@@ -1,0 +1,4 @@
+user-abmint: Yandex
+Disallow: /Admin
+Disallow: *?page=
+Sitemap: /sitemap.xml
