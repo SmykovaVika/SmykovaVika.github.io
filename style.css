@@ -78,7 +78,7 @@ ul li a:hover{
 
 body {
   background: url(images/14.jpg) no-repeat;
-  background-size: auto;
+  background-size: auto%;
   
 }
 }
