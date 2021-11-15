@@ -51,6 +51,7 @@ ul li a:hover{
 .text{
   display: inline-block;
   justify-content: left;
+  padding: 10px;
 }
 
 .footer{
@@ -107,7 +108,7 @@ video{
 
 @media (max-width: 768px) {
   body{
-    width: 100%;
+    max-width: 768px;
   }
   header {
     background: #FF6600;
