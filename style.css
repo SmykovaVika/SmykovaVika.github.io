@@ -185,18 +185,11 @@ video{
   background: transparent no-repeat center center;
   background-size: 100% 100%;
 }
-.social-icons .social-icon-twitter::before {
-  background-image: url("...");
+.social-icons .social-icon-instagram::before {
+  background-image: url("images/89.png");
 }
 .social-icons .social-icon-fb::before {
-  background-image: url("...");
+  background-image: url("images/45.png");
 }
-.social-icons .social-icon-vk::before {
-  background-image: url("...");
-}
-.social-icons .social-icon-telegram::before {
-  background-image: url("...");
-}
-.social-icons .social-icon-youtube::before {
-  background-image: url("...");
-}
+
+
